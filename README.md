@@ -1,3 +1,3 @@
 # Finans
 
-## 7 Projeto curso de desenvolvimento web
+## 7º Projeto curso de desenvolvimento web
